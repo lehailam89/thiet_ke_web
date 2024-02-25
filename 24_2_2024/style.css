@@ -1,0 +1,25 @@
+*{
+    font-size: 50px;
+}   
+
+.p1{
+    color: #9fe2a2;
+    border: 5px solid blue;
+    padding: 60px;
+    border-radius: 15px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HrJI8spedN0Sirqve52RTcMoBYqWneTbcQj-u7CJbhXEMaT6i-XkU7ehUHOybljtTXc&usqp=CAU");
+    font-weight: 900;
+    padding-bottom: 200px;
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    
+}
+.p2{
+    color: #DD3163; 
+}
+.p3{
+    color: #FFC000;
+}

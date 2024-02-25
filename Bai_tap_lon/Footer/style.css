@@ -1,0 +1,12 @@
+/* Footer */
+.footer{
+    padding-top: 20px;
+    background: #717171;
+    padding-bottom: 30px;
+    color: white;
+}
+.footer .container .inner-titles{
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+/* End Footer */
